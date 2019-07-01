@@ -1,3 +1,5 @@
+-- BASE DE DATOS SIGN UP & SIGN IN
+
 -- phpMyAdmin SQL Dump
 -- version 4.8.5
 -- https://www.phpmyadmin.net/
