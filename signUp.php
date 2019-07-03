@@ -15,8 +15,8 @@
 </div>
 <div class="formulario">
             <section>
-                <a href="#" class="enlace1">Sign In</a>
-                <a href="#" class="enlace2">Sign Up</a>
+                <a href="index.php" class="enlace1">Sign In</a>
+                <a href="signUp.php" class="enlace2">Sign Up</a>
                 <h1 class="signar">Sign in or Sign Up</h1>
             <form action="" class="formulario">
         <input type="text" placeholder="Enter your full name" class="casilla">
@@ -26,7 +26,7 @@
         <input type="checkbox" class="botoncito">I agree all statements in <a href="#" class="enlace">terms os service</a>
         </div>
         <button type="button" class="boton">Sign Up</button>
-        <a href="#" class="enlace">I'am already member</a>
+        <a href="index.php" class="enlace">I'm not a member yet</a>
         </form>
         </section>
 </div>
