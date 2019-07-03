@@ -18,7 +18,7 @@
                 <a href="index.php" class="enlace1">Sign In</a>
                 <a href="signUp.php" class="enlace2">Sign Up</a>
                 <h1 class="signar">Sign in or <span>Sign Up</span></h1>
-            <form action="" class="formulario">
+            <form action="xd.php" class="formulario">
         <label for="">FULL NAME</label>
         <input type="text" placeholder="Enter your full name" class="casilla">
         <label for="">PASSWORD</label>
@@ -26,9 +26,8 @@
         <label for="">EMAIL</label>
         <input type="text" placeholder="Your email goes here" class="casilla">
         <div class="checkbox">
-        <input type="checkbox" class="botoncito">I agree all statements in <a href="terminosYcondiciones.php" class="enlace">terms os service</a>
         </div>
-        <button type="button" class="boton">Sign Up</button>
+        <button type="submit" class="boton">Sign Up</button>
         <a href="signUp.php" class="enlace">I'am already member</a>
         </form>
         </section>
